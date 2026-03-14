@@ -1,2 +1,0 @@
-identity: semchain-dev
-platform: github
